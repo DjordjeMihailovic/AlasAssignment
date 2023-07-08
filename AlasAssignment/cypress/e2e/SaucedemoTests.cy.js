@@ -1,6 +1,7 @@
 import {
   conf
 } from '../support/sauce.conf.js'
+
 // A JS file containing all configurable input data was created and imported in order for easier future manipulation
 // of input data used for testing ( See sauce.conf.js for more info )
 
