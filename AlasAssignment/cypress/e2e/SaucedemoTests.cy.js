@@ -8,7 +8,7 @@ describe('Tests', () => {
 
     beforeEach(() => {
 
-        // NOTE: Logged on User is required for all further testing; Standard User credentials were used, since the scope of the testing
+        // Logged on User is required for all further testing; Standard User credentials were used, since the scope of the testing
         // are Order flow functionalities and not the Login Page
         cy.StandardLogin()
 
