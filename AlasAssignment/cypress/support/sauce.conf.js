@@ -1,5 +1,4 @@
 const conf = {
-
     devHomeURL: "https://www.saucedemo.com/",
     StandardUsername: "standard_user",
     Standardpassword: "secret_sauce",
@@ -11,7 +10,6 @@ const conf = {
     ValidZip: "11080",
     completeOrderHeader: "Thank you for your order!",
     completeOrderText: "Your order has been dispatched, and will arrive just as fast as the pony can get there!"
-
 }
   
 module.exports = {
