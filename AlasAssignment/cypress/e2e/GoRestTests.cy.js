@@ -13,7 +13,7 @@ describe('Tests', () => {
 
   it('Should Create a new user', () => {
 
-      // Happy path creating a User; endpoint, headers and body content is imported from api.conf.js file
+      // Happy path creating a User; endpoint, headers and body content are imported from api.conf.js file
       cy.api({
           method: 'POST',
           url: Endpoints.users,
