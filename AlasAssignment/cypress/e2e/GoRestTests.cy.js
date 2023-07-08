@@ -7,6 +7,7 @@ import {
 
 // cypress-plugin-api was used as a handy plugin for api testing in Cypress; basically cy.api() works exactly like cy.request() 
 // but in addition to calling API, it will print out information about the API call in Cypress runner
+// Install this package with CMD by command: npm i cypress-plugin-api
 
 describe('Tests', () => {
 
