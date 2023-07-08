@@ -7,14 +7,14 @@ const ProvidedHeaders = {
 const newUserData = {
   name: 'Bob',
   gender: 'male',
-  email: 'BobTest123@gmail.com',
+  email: 'BobTest1234@gmail.com',
   status: 'active',
 }
 
 const UpdateUserData = {
   name: 'Bobina',
   gender: 'female',
-  email: 'BobTest123@gmail.com',
+  email: 'BobTest1234@gmail.com',
   status: 'inactive',
 }
 
