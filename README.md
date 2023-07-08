@@ -1,7 +1,7 @@
 # AlasAssignment
 This repository contains suggested solutions for the QA Automation assignment submitted by the candidate, Djordje Mihailovic.
 
-The purpose of this document is to provide insights into the contents of the repository, as well as to provide insight on how to import and run tests.
+The purpose of this document is to provide insights into the contents of the repository, as well as to provide guidance on how to import and run tests.
 
 Candidate's tool choice for this assignment was Cypress, and below you can find more information on how to properly setup tests from this repository.
 
