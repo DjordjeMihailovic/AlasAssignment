@@ -144,7 +144,7 @@ describe('Tests', () => {
 
       cy.api({
           method: 'DELETE',
-          url: Endpoints.users + 123456789, // 123456789 is the selected number in constructing a non-existing User; User ID's are constructed from 8 digits
+          url: Endpoints.users + 123456789, // 123456789 is the selected number in constructing a non-existing User; User ID's are constructed from 7 digits
           headers: ProvidedHeaders,
           failOnStatusCode: false,
       }).then((response) => {
